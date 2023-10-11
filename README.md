@@ -8,4 +8,5 @@ Used technologies: Javascript, Webpack, Jest
 
 
 ![Game tests] 
-![battleship](https://github.com/cihenyen/Battleship-game/assets/109390011/83f80f64-5d4a-4a4e-8af3-7d69caa2a219)
+
+![battleship](https://github.com/cihenyen/Battleship-game/assets/109390011/89a3204d-f513-4e87-beeb-0982c844691b)
