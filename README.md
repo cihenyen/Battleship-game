@@ -1,7 +1,7 @@
 # Battleship-game
 Battleship game created following TDD principles. You can play with an AI which will randomly attack.
 
-Live preview: 
+Live preview: https://cihenyen.github.io/Battleship-game/dist/
 
 Used technologies: Javascript, Webpack, Jest
 
